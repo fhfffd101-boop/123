@@ -1,0 +1,15 @@
+{
+    "prefix": "!",
+    "roleOnSuccess": "Members",
+    "embed": {
+      "title": "ระบบยืนยันตัวตน",
+      "description": "กดปุ่มด้านล่างเพื่อยืนยันตัวตน",
+      "imageUrl": "https://media.discordapp.net/attachments/1270349171341135894/1286330684482261055/Picsart_23-10-25_22-28-42-186.webp?ex=6756538e&is=6755020e&hm=77ef939f81dff77e0686c32b898257797bd9d6a4c50201b2ff305bd8ca09f1a8&=&format=webp&width=421&height=298",
+      "color": "#FFFFFF"
+    },
+    "buttonLabel": "เริ่มยืนยันตัวตน",
+    "modalTitle": "VERIFY SYSTEM",
+    "successMessage": "ยืนยันตัวตนสำเร็จ",
+    "failureMessage": "โค้ดไม่ถูกต้อง กรุณาลองอีกครั้ง."
+  }
+  
